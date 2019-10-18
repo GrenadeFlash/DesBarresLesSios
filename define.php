@@ -9,5 +9,5 @@ define('SCRIPT','http://localhost/desbarreslessio/asset/js/');
 //$GLOBAL['pdo']=$pdo->exec('SET NAMES utf8');
 
 
-
+//commentaire test
 ?>
