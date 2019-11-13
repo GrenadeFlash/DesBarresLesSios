@@ -53,7 +53,7 @@ class Seconnecter extends Controller
     
     function commanderfinaliser(){
        
-        
+        $this->render('commanderfinaliser');
     }
     
     function inscription(){
